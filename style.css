@@ -5,7 +5,7 @@ body {
 h1 {
   color: black;
   text-align: center;
-  font-family: 'Lucida Handwriting', cursive;
+  font-family: 'Lucida Handwriting';
   font-weight: bold;
   margin-left: 20px;
   text-shadow: 2px 2px black;
@@ -15,7 +15,7 @@ h1 {
 p {
   color: black;
   text-align: center;
-  font-family: 'Lucida Handwriting', cursive;
+  font-family: 'Lucida Handwriting';
   font-size: 20px;
   text-shadow: 2px 2px 5px black;
   
