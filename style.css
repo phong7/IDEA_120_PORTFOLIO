@@ -7,9 +7,7 @@ h1 {
   text-align: center;
   font-family: 'Lucida Handwriting';
   font-weight: bold;
-  margin-left: 100px;
-  text-shadow: 2px 2px black;
-
+  margin-left: 20px;
 }
 
 p {
@@ -17,7 +15,6 @@ p {
   text-align: center;
   font-family: 'Lucida Handwriting';
   font-size: 20px;
-  text-shadow: 2px 2px 5px black;
   
 }
 
