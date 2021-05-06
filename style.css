@@ -29,10 +29,9 @@ p {
 }
 
 img {
-  margin: 5px;
-  border: 1px solid #ccc;
-  float: center;
-  height: 100px;
-  width: 60px;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  width: 150px;
 }
   
