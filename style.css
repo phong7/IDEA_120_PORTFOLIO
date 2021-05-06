@@ -18,3 +18,11 @@ body {
   margin: 0;
   background-color: white;
 }
+
+div {
+  /* a "div" is like a box you can put web elements in. I place paragraphs
+and images in "divs" and then move them around the page. */
+  padding: 15px;
+  margin: 15px;
+  background: white;
+}
