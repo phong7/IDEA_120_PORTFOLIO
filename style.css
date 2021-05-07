@@ -9,6 +9,15 @@ h1 {
 
 }
 
+h2 {
+  color: black;
+  text-align: center;
+  font-family: "Lucida Console", "Courier New", monospace;
+  font-weight: bold;
+  font-size: 30px;
+  border-style: solid;
+  border-color: yellow;
+}
 
 h3 {
   color: black;
