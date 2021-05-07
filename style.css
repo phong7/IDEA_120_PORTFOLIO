@@ -10,7 +10,7 @@ h1 {
 }
 
 body {
-  background-image: linear-gradient(white, white, white);
+  background-image: url("https://github.com/phong7/IDEA_120_PORTFOLIO/blob/main/Portfolio_img/background.png?raw=true");
   text-align: center;
   font-family: Arial, Helvetica, sans-serif;
   color: black;
