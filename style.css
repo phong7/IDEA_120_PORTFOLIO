@@ -16,6 +16,9 @@ h3 {
   font-family: "Lucida Console", "Courier New", monospace;
   font-weight: bold;
   font-size: 20px;
+  border-style: solid;
+  border-color: hotpink;
+  text-shadow: 3px 3px yellow;
   
 }
 
