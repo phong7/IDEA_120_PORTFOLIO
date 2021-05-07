@@ -16,7 +16,8 @@ h2 {
   font-weight: bold;
   font-size: 30px;
   border: 2px solid cyan;
-  margin: 30px;
+  margin: 20px;
+  text-shadow: 3px 3px hotpink;
 }
 
 h3 {
