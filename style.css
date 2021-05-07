@@ -9,6 +9,10 @@ h1 {
 
 }
 
+h2 {
+  border-style: solid;
+  border-color: yellow;
+
 h3 {
   color: black;
   text-align: center;
