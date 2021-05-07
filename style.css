@@ -11,8 +11,8 @@ h1 {
 
 body {
   text-align: center;
-  font-family: Arial, Helvetica, sans-serif;
-  font-weight: bold;
+  font-family: "Lucida Console", "Courier New", monospace;
+  font-size: 20x;
   color: black;
   margin: 0;
 }
