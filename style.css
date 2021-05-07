@@ -10,7 +10,9 @@ h1 {
 }
 
 body {
-  background-image: url("https://github.com/phong7/IDEA_120_PORTFOLIO/blob/main/Portfolio_img/background.png?raw=true");
+  background: url(https://github.com/phong7/IDEA_120_PORTFOLIO/blob/main/Portfolio_img/background.jpg?raw=true);
+  background-repeat: repeat;
+  background-size: 90px 90px;
   text-align: center;
   font-family: Arial, Helvetica, sans-serif;
   color: black;
